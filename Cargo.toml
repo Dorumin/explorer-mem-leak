@@ -1,0 +1,8 @@
+[package]
+name = "explorer-mem-leak"
+version = "0.1.0"
+authors = ["Naughty <dorminsama@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sysinfo = "0.15.3"
